@@ -1,5 +1,6 @@
 data
 logs
+venv
 pretrained
 __pycache__
 *.tar.gz
