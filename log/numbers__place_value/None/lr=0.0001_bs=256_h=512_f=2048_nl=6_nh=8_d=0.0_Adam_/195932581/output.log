@@ -1,0 +1,64 @@
+Taking scripts from /Users/Development/TP-Transformer/demo
+... and saving them in log/numbers__place_value/None/lr=0.0001_bs=256_h=512_f=2048_nl=6_nh=8_d=0.0_Adam_/195932581/source
+Arguments:
+	seed=195932581
+	model_name=None
+	module_name='numbers__place_value'
+	load_model=''
+	eval_mode=False
+	n_steps=10000
+	max_strikes=1000
+	log_every=50
+	eval_every=200
+	full_loader=False
+	force_remove=False
+	force_reload=False
+	no_train=True
+	log_folder='log/numbers__place_value/None/lr=0.0001_bs=256_h=512_f=2048_nl=6_nh=8_d=0.0_Adam_/195932581'
+	log_suffix=''
+	optimizer='Adam'
+	learning_rate=0.0001
+	beta1=0.9
+	beta2=0.995
+	batch_size=256
+	max_abs_grad_norm=0.1
+	grad_accum_steps=1
+	dropout=0.0
+	hidden=512
+	n_layers=6
+	n_heads=8
+	filter=2048
+	d_r=0
+using JIT loader
+Taking scripts from /Users/Development/TP-Transformer/demo
+... and saving them in log/numbers__place_value/None/lr=0.0001_bs=256_h=512_f=2048_nl=6_nh=8_d=0.0_Adam_/195932581/source
+Arguments:
+	seed=195932581
+	model_name=None
+	module_name='numbers__place_value'
+	load_model='pretrained/tp-transformer_1.7M.pt'
+	eval_mode=False
+	n_steps=10000
+	max_strikes=1000
+	log_every=50
+	eval_every=200
+	full_loader=False
+	force_remove=False
+	force_reload=False
+	no_train=True
+	log_folder='log/numbers__place_value/None/lr=0.0001_bs=256_h=512_f=2048_nl=6_nh=8_d=0.0_Adam_/195932581'
+	log_suffix=''
+	optimizer='Adam'
+	learning_rate=0.0001
+	beta1=0.9
+	beta2=0.995
+	batch_size=256
+	max_abs_grad_norm=0.1
+	grad_accum_steps=1
+	dropout=0.0
+	hidden=512
+	n_layers=6
+	n_heads=8
+	filter=2048
+	d_r=0
+using JIT loader
